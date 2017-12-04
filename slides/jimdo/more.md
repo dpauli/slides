@@ -85,6 +85,10 @@ css: customized.css,font-awesome.min.css
 - Recherche bei z.B. [DPMAregister](https://register.dpma.de/DPMAregister/marke/einsteiger) oder [EPO PATLIB](https://www.epo.org/searching-for-patents/helpful-resources/patlib_de.html)
 - muss regelmäßig erneuert werden
 
+----
+
+## Datenschutz
+
 ---
 
 <!-- .slide: data-background="images/tea.jpg" -->
@@ -178,3 +182,13 @@ css: customized.css,font-awesome.min.css
 # sinnvolle Werkzeuge
 
 ----
+
+iStock – Das größte Archiv für lizenz- und gemafreie Medien ist iStock.
+Shutterstock – Ein weiteres großes Archiv bietet Shutterstock.
+Fotolia – Das deutsche Unternehmen fotolia hat ein interessantes Lizenzmodell beim Kauf von Bildern.
+piqs.de – Die Seite piqs.de listet hauptsächlich kostenfreie Bilder auf.
+Pixabay – Über eine halbe Million kostenfreie Bilder findet man hier.
+pixelio.de – Bei pixelio gibt es kostenlose Bilder für den deutschen Markt.
+Getty Images – Neben einer alten Bildersammlung verkauft Getty auch aktuelle Bilder aus Nachrichtenportalen.
+aboutpixel.de – Mit einer Anmeldung lassen sich hier lizenzfreie Bilder herunterladen.
+Photocase – Untypische Fotos gegen eine Gebühr findet sich bei Photocase.
