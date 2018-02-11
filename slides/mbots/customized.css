@@ -1,0 +1,14 @@
+code.gherkin {
+    text-align: center;
+}
+.reveal i {
+    font-family: 'FontAwesome';
+    font-style: normal;
+}
+.reveal code {
+    text-align: left;
+    border: 1px solid white;
+}
+.reveal section img {
+    max-height: 500px;
+}
