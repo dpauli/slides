@@ -11,7 +11,6 @@
 - Lehrpläne & die Bildung
 - Was kann der mBot?
 - _*Beispiel:*_ erfolgreicher mBot-Kurs
-- weitere Beispiele: Robotik im Schulsystem
 
 ---
 # kurze Vorstellung
@@ -119,56 +118,73 @@ Arbeitsagentur: Statistik/Arbeitsmarktberichterstattung, März 2016
 - vertrieben durch *Makeblock* in zahlreichen Shops
 
 ----
-# Basis-Set
-- 
+## Basis-Set
+### Eingabe
+- Linien-Folge-Sensor
+- Ultraschall-Sensor
+- Lichtsensor
+- Knopf
 
 ----
+## Basis-Set
+### Ausgabe
+- Motoren mit Rädern
+- LED
+- Geräusche
+
+----
+## Basis-Set
+Dazu noch
+- Fernbedienung
+- Weg zum Abfahren
+- Schraubenzieher
+
+----
+## Lieferumfang
+![Lieferumfang](images/Overseas%20version.JPG "Lieferumfang")
+
+----
+## Erweiterungen
+- Add-On Pack Interactive Light & Sound
+- Add-On Pack Servo-Pack
+- Add-On Six-legged Robot
+
+----
+## Einzelsensoren
+- Flame-Sensor
+- Gas-Sensor
+- Temperature and Humidity-Sensor
+- 7-Segment-Display
+- Me 4 Button
+- Me Joystick
+- Me UNO Shield
+
+----
+## Einfacher Aufbau
+![Aufbau](images/4.2-02@mBot%20Assembly.gif "Aufbau")
 
 ---
-## Sind wir nicht alle ein bisschen EVA?
-- *E*ingabe --> Sensoren
-- *V*erarbeitung --> Gehirn
-- *A*usgabe --> Motoren / Aktoren
+# erfolgreicher mBot-Kurs
+<!-- .slide: data-background="images/child-865116_1920.jpg" -->
+
+----
+## erfolgreicher mBot-Kurs
+- erster mBot-Kurs mit der VHS Leipzig
+- 5 Tage á 4h
+- Schüler zwischen 8 - 12 Jahre
+
+----
+## Inhalte
+1. grundlegende Infos zu Robotik + strukturellen Denken
+2. erstes eigenes grafisches Spiel
+3. kleine mBot-Programme
+4. Ziel: Parcour abfahren
 
 ---
-# Lasst uns ein Roboter sein
+# Quellen
+<!-- .slide: data-background="images/candle-1646765_1920.jpg" -->
 
 ----
-## Blocktypen
-
-### [Befehl]
-```
-[stehe auf]
-[gehe zur Schule]
-```
-
-----
-## Blocktypen
-
-### &lt;Bedingungen&gt;
-```
-<wenn vor um 7>
-<wenn draußen Schnee>
-```
-
-----
-## Blocktypen
-
-### []Wiederholungen]
-```
-[Solange bis 9 Uhr]
-   [...]
-```
-
-----
-## Das Problem des frühen Aufstehens
-
-----
-## Der Weg durchs Labyrinth
-- Mögliche Blöcke:
-
-```
-[Schritt nach vorn]
-[Drehe dich nach rechts]
-<Wenn eine Wand vor dir>
-```
+## Quellen
+- [Hersteller mBot Makeblock](https://www.makeblock.com/)
+- [Infos zum VHS-Kurs](https://www.dbawdy.de/bildung/vhs/roboter-mit-scratch-programmieren/)
