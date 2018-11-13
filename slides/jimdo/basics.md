@@ -6,6 +6,7 @@ revealOptions:
     help: false
 css: customized.css,font-awesome.min.css
 ---
+<!-- .slide: data-background="images/technology.jpg" -->
 # Das Jimdo-Baukaustensystem
 
 **Internetseitengestaltung für Privatanwender**
@@ -178,7 +179,7 @@ css: customized.css,font-awesome.min.css
 
 ----
 
-### Jimdo Free (Werbung)
+### Jimdo Free (kostenfrei)
 
 - 500 MB Speicherplatz
 - HTTPS-Verschlüsselung
@@ -190,7 +191,7 @@ css: customized.css,font-awesome.min.css
 ### Jimdo Pro (5 € / Monat)
 
 - 5 GB Speicherplatz
-- + Internet-Adresse + E-Mail-Adresse
+- &#43; Internet-Adresse + E-Mail-Adresse
 - werbefrei
 - optimiert für mobile Geräte 
 
@@ -205,14 +206,13 @@ css: customized.css,font-awesome.min.css
 
 ----
 
-### Plus (20 € / Monat)
-- + weitere Zahlungsmööglichkeiten
+### Jimdo Shop (20 € / Monat)
+- &#43; weitere Zahlungsmööglichkeiten
 
 ----
 
 ### Platin (35 € / Monat)
-- + Suchmaschinen-Werkzeug
-- Experten-Bewertung
+- Experten-Bewertung der Webseite
 
 ----
 

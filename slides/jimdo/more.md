@@ -6,6 +6,7 @@ revealOptions:
     help: false
 css: customized.css,font-awesome.min.css
 ---
+<!-- .slide: data-background="images/technology.jpg" -->
 # Das Jimdo-Baukaustensystem
 
 **Internetseitengestaltung für Privatanwender**
@@ -164,31 +165,3 @@ css: customized.css,font-awesome.min.css
 
 - haben ebenso ein Urheberrecht / Verwertungsrecht
 - Seiten wie [dafont](https://www.dafont.com/de/) bieten eine Übersicht
-
----
-
-<!-- .slide: data-background="images/hand.jpg" -->
-# Suchmaschinenoptimierung
-
-----
-
-## Was ist Suchmaschinenoptimierung?
-
-- häufigster Einstiegspunkt sind Suchmaschinen
-
----
-
-<!-- .slide: data-background="images/confused.jpg" -->
-# sinnvolle Werkzeuge
-
-----
-
-iStock – Das größte Archiv für lizenz- und gemafreie Medien ist iStock.
-Shutterstock – Ein weiteres großes Archiv bietet Shutterstock.
-Fotolia – Das deutsche Unternehmen fotolia hat ein interessantes Lizenzmodell beim Kauf von Bildern.
-piqs.de – Die Seite piqs.de listet hauptsächlich kostenfreie Bilder auf.
-Pixabay – Über eine halbe Million kostenfreie Bilder findet man hier.
-pixelio.de – Bei pixelio gibt es kostenlose Bilder für den deutschen Markt.
-Getty Images – Neben einer alten Bildersammlung verkauft Getty auch aktuelle Bilder aus Nachrichtenportalen.
-aboutpixel.de – Mit einer Anmeldung lassen sich hier lizenzfreie Bilder herunterladen.
-Photocase – Untypische Fotos gegen eine Gebühr findet sich bei Photocase.
